@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "lib": ["esnext"],
+    "strict": true,
+    "rootDir": "."
+  },
+  "include": ["."]
+}
