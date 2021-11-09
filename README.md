@@ -1,5 +1,14 @@
 # GQL mock server
 
+## Available scripts
+
+### `yarn` - install
+### `yarn dev` - run development
+
+## Run GraphiQL
+
+### `http://localhost:4000/graphql`
+
 ## Example query
 
 ```graphql
@@ -49,7 +58,3 @@ mutation($name: String) {
   "name": "Test"
 }
 ```
-
-## Available scripts
-
-### `yarn dev`
